@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TopChainBoy
+- 👀 I’m interested in Blockchain and Assets management technologies, crypto innovation, and creating decentralized solutions.
+- 🌱 I’m currently learning Python, Javascript and the latest trends in decentralized application and how to further engage with the crypto community.
+- 💞️ I’m looking to collaborate on projects that align with the philosophy of democratizing asset management, fostering transparency, and embracing the cutting-edge tech of the blockchain.
+- 📫 How to reach me: Feel free to connect with me on Twitter @topchainboy or visit our official website at thedaoma.com.
